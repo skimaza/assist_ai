@@ -1,2 +1,2 @@
 # assist_ai
-2022 Spring AI and Big Data MBA advanced course
+2022 경영자를 위한 딥러닝의 이해
